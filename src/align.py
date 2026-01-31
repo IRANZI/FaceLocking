@@ -8,6 +8,8 @@ Keys: q → quit, s → save current aligned face
 """
 
 from __future__ import annotations
+import utils.transport
+import utils.session
 import os
 import time
 from pathlib import Path
